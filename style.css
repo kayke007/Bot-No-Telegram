@@ -1,0 +1,27 @@
+
+fieldset{
+	text-align: center;
+	color: black;
+	background-image: url(img/fundo.png);
+	width:960px;
+	height:700px;
+	margin: 0 auto;
+	color: black;
+	border-style: 12px solid;
+}
+body{
+	background-color: black;
+	background-image: url(img/icon-128.png);
+}
+.tela{
+    background-image: url(img/signbot.gif);
+    
+}
+.botao{
+	border-radius: 20px ;
+	border-style: solid;
+}
+.msgg{
+	border: 1px solid black;
+	background-color: white;
+}

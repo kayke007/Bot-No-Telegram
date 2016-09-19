@@ -1,27 +1,31 @@
 
-fieldset{
-	text-align: center;
-	color: black;
-	background-image: url(img/fundo.png);
-	width:960px;
-	height:700px;
-	margin: 0 auto;
-	color: black;
-	border-style: 12px solid;
-}
 body{
-	background-color: black;
-	background-image: url(img/icon-128.png);
+    margin: 130px;
+    background-image: url(img/fundo.jpg);
+}  
+
+input {
+    border-radius: 20px;
+    padding: 10px;
+    border-style: solid;
 }
-.tela{
-    background-image: url(img/signbot.gif);
-    
+
+nav {
+    text-align: center;
 }
-.botao{
-	border-radius: 20px ;
-	border-style: solid;
+
+#lua {
+    text-align: center;
 }
-.msgg{
-	border: 1px solid black;
-	background-color: white;
+
+.texto{
+    background-color: darkorange;   
+    border-radius: 5px;
+    padding: 5px;
+}
+.parag {
+    padding: 5px;
+    background-color: #FFFFFF;
+    color: #000099;
+    border-radius: 5px;
 }
